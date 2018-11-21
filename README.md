@@ -14,7 +14,7 @@ Run `make`. An executable will compile. Currently only tested on OS X.
 
 Run `./particleSystem`.
 
-You can run `./particleSystem [num particles]` with any number between 100 and 30000000 to set teh number of particles.
+You can run `./particleSystem [num particles]` with any number between 100 and 30000000 to set the number of particles.
 
 ## input
 
